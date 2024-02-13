@@ -4,21 +4,49 @@
 This is my **readme** for week 3! I made a mistake and accidentally did *week 3* last week, so I am just typing new stuff for this week! I keep getting the weeks mixed up; whoops!
 
 Here are some reasons I'm smarter than accidentally doing this week twice!
-1. Play games such as Team Fight Tactics and Valorant
+1. I am coding a video game with some friends in a team of 8!
 2. Play wordle
-3. chat and talk with stream
+3. I understand coding pretty well! I take classes on it in my free time
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moving Objects</title>
 
-![goofyface](https://github.com/hausermsarah/MART-341/assets/123280964/c8de73e9-cf74-438d-97c9-f211c08ea9f6)
+  <!-- CSS/JS for OpenLayers map  -->
+  <script src="https://cdn.jsdelivr.net/npm/ol@v7.1.0/dist/ol.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.1.0/ol.css" type="text/css" />
+  <!-- CSS for app -->
+  <link rel="stylesheet" href="moving-objects.css" type="text/css" />
+</head>
 
-<svg width="300" height="100">
-  <title>Attribute Animation with SMIL</title>
-  <rect x="0" y="0" width="300" height="100" stroke="black" stroke-width="1" />
-  <circle cx="0" cy="50" r="15" fill="blue" stroke="black" stroke-width="1">
-    <animate
-      attributeName="cx"
-      from="0"
-      to="500"
-      dur="5s"
-      repeatCount="indefinite" />
-  </circle>
-</svg>
+<div id="panel">
+  <h1>Moving Objects</h1>
+  <div id="objectList">
+    <!-- <div class="object">
+      <div class="objectname">Object 1 <span id="obj1icon">&#11044;</span></div>
+      <div class="controls">
+        <a href="#" onclick="objMove(1,'left')">⬅️</a>
+        <a href="#" onclick="objMove(1,'up')">⬆️</a>
+        <a href="#" onclick="objMove(1,'down')">⬇️</a>
+        <a href="#" onclick="objMove(1,'right')">➡️</a>
+      </div>
+    </div> -->
+  </div>
+  <div class="meta">
+    <p>Click on the arrows to move an object!</p>
+    <p>A click updates the location in the database, and the object changes location on the map when the event propogates back out to all the clients.</p>
+    <p>Everyone using this map sees the same object locations and they all update in real time.</p>
+    <p><a href="https://github.com/pramsey/pg_eventserv/blob/main/examples/moving-objects/README.md">How it works...</a></p>
+    <hr/>
+    <pre id="wsStatus"></pre>
+  </div>
+</div>
+<div id="map"></div>
+</div>
+
+<script src="moving-objects.js" type="text/javascript"></script>
+
+</body>
+</html>
