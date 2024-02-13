@@ -7,5 +7,6 @@ Here are some reasons I'm smarter than accidentally doing this week twice!
 1. I am coding a video game with some friends in a team of 8!
 2. Play wordle
 3. I understand coding pretty well! I take classes on it in my free time
+4. I made a moving gif this time!
 
 ![Moving Circle](https://i.pinimg.com/originals/8e/e1/bd/8ee1bd30ead033e3f38cdcad019e3263.gif)
