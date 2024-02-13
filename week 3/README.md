@@ -8,7 +8,7 @@ Here are some reasons I'm smarter than accidentally doing this week twice!
 2. Play wordle
 3. chat and talk with stream
 
-![goofyface]https://github.com/hausermsarah/MART-341/assets/123280964/c8de73e9-cf74-438d-97c9-f211c08ea9f6)
+![goofyface](https://github.com/hausermsarah/MART-341/assets/123280964/c8de73e9-cf74-438d-97c9-f211c08ea9f6)
 
 <svg width="300" height="100">
   <title>Attribute Animation with SMIL</title>
