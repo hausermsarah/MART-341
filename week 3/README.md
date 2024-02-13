@@ -8,4 +8,4 @@ Here are some reasons I'm smarter than accidentally doing this week twice!
 2. Play wordle
 3. I understand coding pretty well! I take classes on it in my free time
 
-![Moving Circle]([link_to_your_gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frafal-rozendaal-moving-circle--710091066228161248%2F&psig=AOvVaw0eekoj1JBXxhAGIPXX87MH&ust=1707889571164000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDw28vOp4QDFQAAAAAdAAAAABAJ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frafal-rozendaal-moving-circle--710091066228161248%2F&psig=AOvVaw0eekoj1JBXxhAGIPXX87MH&ust=1707889571164000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDw28vOp4QDFQAAAAAdAAAAABAJ)
+![Moving Circle](https://i.pinimg.com/originals/8e/e1/bd/8ee1bd30ead033e3f38cdcad019e3263.gif)
